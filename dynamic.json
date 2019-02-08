@@ -1,0 +1,43 @@
+{
+  "profile":{
+  	"img":"Images/puppy.jpg",
+  	"name":"chandu",
+  	"rollno":"17A31A1255",
+    "institute":"Pragati",
+    "mail":"chandu@gmail.com"
+    },
+    "career":{
+    	"info":"To secure a challenging position where I can explore my talents"
+    },
+    "education":[
+{
+	"sno":"1",
+	"degree":"B.Tech",
+	"institute":"Pragati",
+	"yop":"2018"
+},
+{
+	"sno":"2",
+	"degree":"Intermediate",
+	"institute":"geetanjali junior college",
+	"yop":"2014"
+},
+{
+	"sno":"3",
+	"degree":"ssc",
+	"institute":"Sri chaitanya techno",
+	"yop":"2012"
+}
+],
+    "languages":[
+      {
+      	"lang":"English"
+      },
+      {
+      	"lang":"Hindi"
+      },
+      {
+      	"lang":"Telugu"
+      }     
+    ]
+}
